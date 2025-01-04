@@ -1,0 +1,38 @@
+Notes - 
+
+
+body {
+  background: linear-gradient(
+      to bottom right,
+      rgba(0, 0, 0, 0.9),
+      rgba(0, 0, 0, 0.4)
+    ),
+    url("/bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #555;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #121212;
+  border-radius: 8px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #242424;
+}
+
+MONGODB - 
+Username = oshoaeeb
+password = EysR3RHZaGAs8SOd
+
+
+#if i feel like doing the code i will do otherwise i will delete the folder that i just created and move on  with my life.
